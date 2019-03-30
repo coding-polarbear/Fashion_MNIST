@@ -4,6 +4,8 @@
 # 참고 자료
 [kaggle 링크](https://www.kaggle.com/pankul/cnn-accuracy-92)
 
+[CNN 참고자료](https://tykimos.github.io/2017/01/27/CNN_Layer_Talk/)
+
 # 사용기술
 * tensorflow 2.0
 * flask
